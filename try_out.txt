@@ -1,0 +1,7 @@
+- remove 0 value
+
+- PCA in pipeline
+
+- enkele features maar gebruiken ipv allemaal (6 - 13 is vrij gelijkaardig zie corr_matrix)
+
+- nearest neighbour
